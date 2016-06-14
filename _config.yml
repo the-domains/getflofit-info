@@ -1,0 +1,14 @@
+layout_spectrum: 0.6469534
+typography_spectrum: 0.3512545
+color:
+  saturation: 0.7293907
+  lightness: 0.05043954
+  brandStrength: 0.6430397
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#B9B9B9'
+    - '#015792'
+    - '#1B9ED7'
+  rhythmicContrast: 0.109319
+name: Getflofit.info
